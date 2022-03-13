@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background-color: #F0F8FF;
+}
+
+.logo a {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: bignoodletitling;
+    color: white;
+    float: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #6495ED;
+}
+
+li{
+    float: left;
+    margin-right: 0;
+}
+
+.nav-links{
+    float: right;
+}
+
+.rightContent{
+    margin-left: 2%;
+    width: 20%;
+    height: 500px;
+    float: right;
+    margin-top: -181.75%;
+    background-color: #1E90FF;
+    text-align: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.banner {
+    width: 100%;
+    height:200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(http://webvertisepreview.com/wp-content/uploads/2021/04/Medical-Staffing-scaled-900x200.jpg) ;
+}
+
+
+
+
+.form {
+    background-color: rgb(233, 182, 14);
+    border: green 5px solid;
+    padding: 30px ;
+    color: rgb(243, 1, 21);
+    margin: 0.5%;
+    height: 200px;
+    width: 70%;
+}
+
+
+#form-header {
+    color: Blue;
+}
+
+#head3 {
+    color: black;
+}
+
+#image1 {
+    float: left;
+
+}
+
+#image2 {
+    float: right;
+}
+
+#image3 {
+    float: left;
+}
+
+#medical-school {
+    background-color: #1E90FF;
+    margin: 0.5%;
+    border: 5px rgb(130, 191, 202) solid;
+    padding: 20px;
+    width: 72%;
+    height: 200px;
+    position: center;
+}
+.article{
+    color: white;
+    text-align: left;
+
+}
+
+
+#dental-school {
+    background-color: #1E90FF;
+    margin: 0.5%;
+    border: 5px rgb(130, 191, 202) solid;
+    padding: 20px;
+    width: 72%;
+    height: 200px;
+}
+
+#pharmacy-school {
+    background-color: #1E90FF;
+    margin: 0.5%;
+    border: 5px rgb(130, 191, 202) solid;
+    padding: 20px;
+    width: 72%;
+    height: 200px;
+}
