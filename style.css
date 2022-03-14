@@ -1,3 +1,5 @@
+/* margin, navbar and banner */
+
 * {
     margin: 0;
     padding: 0;
@@ -35,9 +37,6 @@ li{
     float: right;
 }
 
-
-
-
 li a {
     display: block;
     color: white;
@@ -66,6 +65,8 @@ li a {
     /* width: 70%; */
 }
 
+/* Header and images */
+
 #form-header {
     color: Blue;
 }
@@ -86,6 +87,8 @@ li a {
 #image3 {
     float: left;
 }
+
+/* blocks and their styles */
 
 #medical-school {
     background-color: #1E90FF;
