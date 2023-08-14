@@ -31,10 +31,7 @@ Website is a mock up of a Health Care site that helps select Programs depending 
 - should have some informational details and links to submit box
 
 * links for Fa fa cons
-   [Fa-fa-cons][https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css)
-
-<"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+   [Fa-fa-cons][https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css]
 
 - for the side body
 
