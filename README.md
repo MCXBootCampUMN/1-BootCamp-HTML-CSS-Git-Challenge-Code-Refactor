@@ -38,8 +38,8 @@ Website is a mock up of a Health Care site that helps select Programs depending 
 
 ## Webite link 💻
 
-https://mcnoor.github.io/Challenge-1-BC/#
+[github link](https://mcnoor.github.io/Challenge-1-BC/#)
 
-https://github.com/Mcnoor/Challenge-1-BC.git
+[github project](https://github.com/Mcnoor/Challenge-1-BC.git)
 
 © Mcnoor, Student, @ University of Minnesota BootCamp All Rights Reserved.
