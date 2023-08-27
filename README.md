@@ -44,4 +44,4 @@ Website is a mock up of a Health Care site that helps select Programs depending 
 
 © Mcnoor, Student, @ University of Minnesota BootCamp All Rights Reserved.
 
-#### Thank you for checking it out
+#### Thank you for checking this project
