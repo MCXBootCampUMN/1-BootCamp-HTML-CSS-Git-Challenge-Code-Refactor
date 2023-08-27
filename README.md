@@ -43,3 +43,5 @@ Website is a mock up of a Health Care site that helps select Programs depending 
 [Deployed-link](https://mcxbootcampumn.github.io/1-BootCamp-HTML-CSS-Git-Challenge-Code-Refactor/)
 
 © Mcnoor, Student, @ University of Minnesota BootCamp All Rights Reserved.
+
+#### Thank you for checking it out
