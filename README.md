@@ -46,7 +46,7 @@ Website is a mock up of a Health Care site that helps select Programs depending 
 
 [Github-Project](https://github.com/Maxamed-NCX/1-HTML-CSS-Application-Code-Refactor)
 
-[Deployed-link](https://Maxamed-NCX.github.io/Maxamed-NCX/1-HTML-CSS-Application-Code-Refactor/)
+[Deployed-link](https://maxamed-ncx.github.io/1-HTML-CSS-Application-Code-Refactor/)
 
 © Mcnoor, Student, @ University of Minnesota BootCamp All Rights Reserved.
 
