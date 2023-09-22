@@ -38,7 +38,7 @@ Website is a mock up of a Health Care site that helps select Programs depending 
 
 ## Webite link 💻
 
-[github-Project](https://github.com/MCXBootCampUMN/1-BootCamp-HTML-CSS-Git-Challenge-Code-Refactor/tree/main)
+[Github-Project](https://github.com/MCXBootCampUMN/1-BootCamp-HTML-CSS-Git-Challenge-Code-Refactor/tree/main)
 
 [Deployed-link](https://Maxamed-NCX.github.io/1-BootCamp-HTML-CSS-Git-Challenge-Code-Refactor/)
 
