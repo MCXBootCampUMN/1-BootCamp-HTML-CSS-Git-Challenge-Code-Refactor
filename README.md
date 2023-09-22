@@ -1,4 +1,10 @@
-# Challenge-1-BC
+# Code-Refactor
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/1-HTML-CSS-Git-Application-Code-Refactor)
+![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/1-HTML-CSS-Git-Application-Code-Refactor)
+
+
+## UofM BootCamp: Application 1
 
 Website is a mock up of a Health Care site that helps select Programs depending on the school one is interested in.
 
