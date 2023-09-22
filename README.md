@@ -1,7 +1,7 @@
 # Code-Refactor
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/1-HTML-CSS-Git-Application-Code-Refactor)
-![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/1-HTML-CSS-Git-Application-Code-Refactor)
+![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/1-HTML-CSS-Application-Code-Refactor)
+![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/1-HTML-CSS-Application-Code-Refactor)
 
 
 ## UofM BootCamp: Application 1
@@ -44,9 +44,9 @@ Website is a mock up of a Health Care site that helps select Programs depending 
 
 ## Webite link 💻
 
-[Github-Project](https://github.com/MCXBootCampUMN/1-BootCamp-HTML-CSS-Git-Challenge-Code-Refactor/tree/main)
+[Github-Project](https://github.com/Maxamed-NCX/1-HTML-CSS-Application-Code-Refactor)
 
-[Deployed-link](https://Maxamed-NCX.github.io/1-BootCamp-HTML-CSS-Git-Challenge-Code-Refactor/)
+[Deployed-link](https://Maxamed-NCX.github.io/Maxamed-NCX/1-HTML-CSS-Application-Code-Refactor/)
 
 © Mcnoor, Student, @ University of Minnesota BootCamp All Rights Reserved.
 
